@@ -1,0 +1,101 @@
+Rank,Rating,Title,Review,Genre
+1,,Parasite (Gisaengchung) (2019),456,"['drama', 'mysteryandthriller', 'comedy']"
+2,,Avengers: Endgame (2019),533,"['action', 'adventure', 'scifi', 'fantasy']"
+3,,Knives Out (2019),459,"['drama', 'mysteryandthriller', 'comedy', 'crime']"
+4,,Us (2019),540,"['horror', 'mysteryandthriller']"
+5,,Toy Story 4 (2019),447,"['adventure', 'kidsandfamily', 'animation', 'comedy', 'fantasy']"
+6,,The Irishman (2019),445,"['drama', 'crime']"
+7,,Little Women (2019),414,['drama']
+8,,The Farewell (2019),335,"['drama', 'comedy']"
+9,,Booksmart (2019),365,"['gayandlesbian', 'comedy']"
+10,,A Beautiful Day in the Neighborhood (2019),366,"['drama', 'biography']"
+11,,Marriage Story (2019),385,"['drama', 'comedy']"
+12,,Spider-Man: Far From Home (2019),445,"['action', 'adventure', 'comedy', 'fantasy']"
+13,,If Beale Street Could Talk (2019),353,"['drama', 'crime', 'romance']"
+14,,Once Upon a Time In Hollywood (2019),559,"['drama', 'comedy']"
+15,,Pain and Glory (Dolor y gloria) (2019),292,['drama']
+16,,Shazam! (2019),407,"['action', 'adventure', 'comedy', 'fantasy']"
+17,,Ford v Ferrari (2019),343,"['drama', 'biography', 'history']"
+18,,The Lighthouse (2019),379,"['drama', 'mysteryandthriller']"
+19,,Dolemite Is My Name (2019),228,"['drama', 'biography', 'comedy']"
+20,,Uncut Gems (2019),335,"['mysteryandthriller', 'comedy']"
+21,,Apollo 11 (2019),183,"['drama', 'history', 'documentary']"
+22,,Rocketman (2019),378,"['drama', 'gayandlesbian', 'biography', 'musical']"
+23,,Amazing Grace (2019),157,"['music', 'documentary']"
+24,,Ash Is Purest White (2019),152,"['drama', 'romance']"
+25,,They Shall Not Grow Old (2019),150,"['drama', 'documentary', 'war', 'history']"
+26,,Honeyland (2019),123,['documentary']
+27,,John Wick: Chapter 3 - Parabellum (2019),345,"['action', 'mysteryandthriller']"
+28,,The Peanut Butter Falcon (2019),213,"['drama', 'comedy', 'adventure']"
+29,,Honey Boy (2019),230,['drama']
+30,,One Cut of the Dead (Kamera o tomeru na!) (2019),87,"['horror', 'comedy']"
+31,,Knock Down the House (2019),103,['documentary']
+32,,Birds of Passage (Pájaros de verano) (2019),167,"['drama', 'crime']"
+33,,Captain Marvel (2019),528,"['action', 'adventure', 'fantasy', 'scifi']"
+34,,For Sama (2019),97,"['war', 'documentary']"
+35,,Maiden (2019),117,['documentary']
+36,,Atlantics (2019),152,
+37,,Fighting with My Family (2019),238,"['drama', 'biography', 'comedy']"
+38,,Hustlers (2019),342,"['drama', 'comedy']"
+39,,One Child Nation (2019),100,['documentary']
+40,,3 Faces (2019),97,['drama']
+41,,Woman at War (Kona fer í stríð) (2019),117,"['drama', 'comedy']"
+42,,Chained for Life (2019),51,['drama']
+43,,How to Train Your Dragon: The Hidden World (2019),265,"['adventure', 'kidsandfamily', 'animation', 'comedy', 'fantasy']"
+44,,First Love (Hatsukoi) (2019),115,"['drama', 'comedy', 'crime']"
+45,,The Chambermaid (La camarista) (2019),70,['drama']
+46,,Transit (2019),177,"['history', 'drama']"
+47,,Tigers Are Not Afraid (Vuelven) (2019),112,"['horror', 'mysteryandthriller', 'fantasy']"
+48,,Stan & Ollie (2019),219,"['comedy', 'drama', 'history', 'biography']"
+49,,Midnight Traveler (2019),46,"['documentary', 'war']"
+50,,Ready or Not (2019),303,"['horror', 'mysteryandthriller', 'comedy']"
+51,,Mickey and the Bear (2019),45,['drama']
+52,,Deadwood: The Movie (2019),87,['western']
+53,,Hail Satan? (2019),129,['documentary']
+54,,Varda by Agnès (2019),86,"['documentary', 'biography']"
+55,,"Scream, Queen! My Nightmare on Elm Street (2019)",41,"['documentary', 'gayandlesbian']"
+56,,White Riot (2019),40,"['documentary', 'music']"
+57,,The Heiresses (Las Herederas) (2019),80,"['drama', 'gayandlesbian']"
+58,,Toni Morrison: The Pieces I Am (2019),99,['documentary']
+59,,The Last Black Man in San Francisco (2019),205,['drama']
+60,,Midsommar (2019),390,"['horror', 'mysteryandthriller']"
+61,,The Mustang (2019),132,['drama']
+62,,Wild Rose (2019),191,"['music', 'comedy', 'drama']"
+63,,Blinded by the Light (2019),254,"['drama', 'comedy', 'music']"
+64,,Bad Education (2019),145,"['drama', 'comedy']"
+65,,Ad Astra (2019),378,"['scifi', 'mysteryandthriller', 'adventure']"
+66,,63 Up (2019),56,['documentary']
+67,,Homecoming: A Film by Beyoncé (2019),55,
+68,,Too Late to Die Young (Tarde para morir joven) (2019),55,['drama']
+69,,By the Grace of God (Grâce à Dieu) (2019),96,['drama']
+70,,Dark Waters (2019),223,"['drama', 'mysteryandthriller']"
+71,,Gloria Bell (2019),201,['romance']
+72,,Midnight Family (2019),72,"['action', 'documentary', 'drama', 'crime']"
+73,,Buñuel in the Labyrinth of the Turtles (Buñuel en el laberinto de las tortugas) (2019),49,"['drama', 'animation']"
+74,,American Factory (2019),90,['documentary']
+75,,Fiddler: A Miracle of Miracles (2019),44,"['documentary', 'music']"
+76,,Making Waves: The Art of Cinematic Sound (2019),65,['documentary']
+77,,Working Woman (2019),43,['drama']
+78,,Dirty God (2019),41,['drama']
+79,,The Cave (2019),62,['documentary']
+80,,The Kingmaker (2019),62,['documentary']
+81,,"Love, Antosha (2019)",61,['documentary']
+82,,I Lost My Body (2019),82,"['drama', 'animation', 'fantasy']"
+83,,Harpoon (2019),59,"['mysteryandthriller', 'comedy']"
+84,,Jojo Rabbit (2019),418,"['drama', 'comedy']"
+85,,Little Woods (2019),96,['drama']
+86,,The Two Popes (2019),221,['drama']
+87,,In Fabric (2019),156,"['horror', 'comedy']"
+88,,Mike Wallace Is Here (2019),91,"['documentary', 'biography']"
+89,,Ray & Liz (2019),69,['drama']
+90,,Be Natural: The Untold Story of Alice Guy-Blaché (2019),86,['documentary']
+91,,Monos (2019),150,"['adventure', 'mysteryandthriller']"
+92,,Clemency (2019),148,['drama']
+93,,Shadow (2019),102,"['sportsandfitness', 'action', 'adventure']"
+94,,Rojo (2019),53,"['drama', 'mysteryandthriller']"
+95,,An Elephant Sitting Still (Da xiang xi di er zuo) (2019),49,['drama']
+96,,Citizen K (2019),59,['documentary']
+97,,The Wild Pear Tree (Ahlat agaci) (2019),80,['drama']
+98,,The Kid Who Would Be King (2019),187,"['kidsandfamily', 'adventure', 'fantasy']"
+99,,The LEGO Movie 2: The Second Part (2019),295,"['action', 'adventure', 'kidsandfamily', 'animation', 'comedy']"
+100,,Raise Hell: The Life & Times of Molly Ivins (2019),58,['documentary']
